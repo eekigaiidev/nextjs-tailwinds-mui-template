@@ -14,6 +14,8 @@ See [demo](https://nextjs-tailwinds-mui-template.vercel.app/) here.
 First, run the development server:
 
 ```bash
+npm install
+
 npm run dev
 # or
 yarn dev
